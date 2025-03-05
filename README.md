@@ -6,4 +6,4 @@ https://www.youtube.com/@MigZCode
 
 
 
-To run the script, make sure you have AutoHotKey installed in your computer
+Make sure you have AutoHotKey installed before running the Script in your computer
