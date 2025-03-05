@@ -1,2 +1,9 @@
 # TSB_Macro
-AutoHotKey Macro for TSB
+Simple AutoHotKey Macro for TSB
+
+Make sure to Visit my **YouTube Channel**:
+https://www.youtube.com/@MigZCode
+
+
+
+To run the script, make sure you have AutoHotKey installed in your computer
