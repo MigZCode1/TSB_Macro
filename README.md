@@ -1,7 +1,7 @@
 # TSB_Macro
 Simple AutoHotKey Macro for TSB
 
-Make sure to Visit my **YouTube Channel**:
+Visit my **YouTube Channel**:
 https://www.youtube.com/@MigZCode
 
 
